@@ -1,0 +1,4 @@
+﻿{
+ "fruits"="orange"
+ "size"="20"
+}
